@@ -1,4 +1,4 @@
-module goudev
+module github.com/hootrhino/goudev
 
 go 1.20
 
